@@ -23,11 +23,14 @@ export default function RootLayout({
 }: Readonly<{ children: ReactNode }>) {
   return (
     <html lang="en">
+      <head>
+        <title>{metadata.title}</title> {/* Add the title explicitly */}
+      </head>
       <ClerkProvider
         appearance={{
           layout: {
             socialButtonsVariant: "iconButton",
-            logoImageUrl: "/icons/yoom-logo.svg",
+            logoImageUrl: "/icons/yoom-logo.svg", // Your custom logo
           },
           variables: {
             colorText: "#fff",
