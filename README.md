@@ -30,8 +30,8 @@ To get started with the Vcall project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/yourusername/zoom-clone.git](https://github.com/yourusername/zoom-clone.git)
-   cd zoom-clone
+   git clone [https://github.com/yourusername/zoom-clone.git](https://github.com/yourusername/Vcall.git)
+   cd Vcall
    ```
 
 2. **Install dependencies**:
