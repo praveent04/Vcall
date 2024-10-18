@@ -1,4 +1,4 @@
-![Screenshot (30)](https://github.com/user-attachments/assets/8101f522-66a8-4a3d-b0ca-e1337ed7f208)
+![Vcall-logo](https://github.com/user-attachments/assets/f95f5871-730b-4750-8fad-2b7fb1dd79c0)
 
 # VCall ( A Video Confrencing Web Application )
 
@@ -52,7 +52,7 @@ To get started with the Vcall project, follow these steps:
 Glimpses of Website:
 
 **Opening Page**
-![Uploading Screenshot (30).png…]()
+![Screenshot (30)](https://github.com/user-attachments/assets/8101f522-66a8-4a3d-b0ca-e1337ed7f208)
 
 **Meeting Starting Setup**
 ![Screenshot (34)](https://github.com/user-attachments/assets/911ace83-373e-472b-baf2-2567b9515768)
