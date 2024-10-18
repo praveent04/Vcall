@@ -3,7 +3,7 @@
 
 **Visit It Here :** [https://vmeet-amber.vercel.app](#)
 
-# VCall ( A Video Confrencing Web Application )
+# Vcall ( A Video Confrencing Web Application )
 
 Welcome to the VCall project! This application is a video conferencing tool built using modern web technologies. It aims to provide a seamless video calling experience similar to popular platforms like Zoom.
 
@@ -56,15 +56,22 @@ Glimpses of Website:
 
 **Opening Page**
 
-![Screenshot (30)](https://github.com/user-attachments/assets/8101f522-66a8-4a3d-b0ca-e1337ed7f208)
+![img 1](https://github.com/user-attachments/assets/e619b987-3cad-4b32-84b9-50f3a2f0cb16)
+
 
 **Meeting Starting Setup**
 
-![Screenshot (34)](https://github.com/user-attachments/assets/911ace83-373e-472b-baf2-2567b9515768)
+![img 2](https://github.com/user-attachments/assets/8da946ad-4b3b-42bd-b4c2-b2065498edf3)
+
 
 **Inside the Meet Setup**
 
-![Screenshot (35)](https://github.com/user-attachments/assets/819232b0-6dd5-44c6-89b7-171ec0db0c77)
+![img 3](https://github.com/user-attachments/assets/17bb9cf8-c887-4744-a407-f6497d97f806)
+
+
+**Authentication Page**
+
+![auth](https://github.com/user-attachments/assets/c8911a37-f1ee-4810-be6f-b65b2017f77e)
 
 
 ## Deployment
