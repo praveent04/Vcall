@@ -1,4 +1,5 @@
-![Vcall-logo](https://github.com/user-attachments/assets/f95f5871-730b-4750-8fad-2b7fb1dd79c0)
+<img src="https://github.com/user-attachments/assets/f95f5871-730b-4750-8fad-2b7fb1dd79c0" width="50%" height="50%" />
+
 
 
 **Visit It Here :** [https://vmeet-amber.vercel.app](#)
