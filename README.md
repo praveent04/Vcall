@@ -2,7 +2,7 @@
 
 
 
-**Visit It Here :** [https://vmeet-amber.vercel.app](#)
+**Visit It Here :** [ https://vcall-amber.vercel.app ](#)
 
 # Vcall ( A Video Confrencing Web Application )
 
@@ -79,7 +79,7 @@ Glimpses of Website:
 
 The application is deployed and accessible at the following link:
 
-[https://vmeet-amber.vercel.app](#)
+[ https://vcall-amber.vercel.app](#)
 
 
 ## License
